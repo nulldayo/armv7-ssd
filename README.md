@@ -1,5 +1,5 @@
 # armv7-ssd
-The content of this repository originates from the workshop "assembly programming" by Dr. Thomas Mundt at the University of Rostock.
+The content of this repository originates from the workshop "Assembler Programming" by Dr. Thomas Mundt at the University of Rostock.
 
 ## ARMv7 Emulator
 The provided code in this repository is intended to run on 
